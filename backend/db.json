@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Burger",
+      "price": "35",
+      "count": 0,
+      "isInCart": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Fish",
+      "price": 36,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Tomatos",
+      "price": 18,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "Coffee",
+      "price": 10,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Chess",
+      "price": 60,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "name": "Fish",
+      "price": 36,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "id": 7,
+      "name": "Tomatos",
+      "price": 18,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "id": 8,
+      "name": "Apple",
+      "price": 9,
+      "count": 1,
+      "isInCart": false
+    },
+    {
+      "name": "Fish",
+      "price": "38",
+      "count": 0,
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "egg",
+      "price": "2",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
